@@ -9,6 +9,16 @@
   ![](https://img.shields.io/badge/python-3.10-blueviolet)
   ![](https://img.shields.io/badge/stm32-f4xx-brightgreen)
   ![](https://img.shields.io/badge/stm32-f1xx-blue)
+  ![](https://img.shields.io/badge/ucos-III-FFFB7D)
+
+### My Plan:
+| 计划任务              |  完成与否  |
+|-------------------|:------:|
+| STM32单片机滤波算法实现    |   X    |
+| PID控制算法实现(matlab) |   X    |
+|                   |        |
+
+
 ### Record:  
 ![yepHiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepHiu&show_icons=true&bg_color=45,FFCC70,C850C0&text_color=333333)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yepHiu&layout=compact&bg_color=45,FFCC70,C850C0)](https://github.com/anuraghazra/github-readme-stats)
