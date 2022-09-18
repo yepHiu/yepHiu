@@ -1,6 +1,6 @@
 ## 你好呀 Hi there 👋  
   
-![]https://img.shields.io/badge/python-3.10-blueviolet  
+![ ]https://img.shields.io/badge/python-3.10-blueviolet 
 
 welcome to my page
 I'm a student from China who is learning Embedded development.  
