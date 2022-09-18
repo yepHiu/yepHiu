@@ -10,5 +10,5 @@
   ![](https://img.shields.io/badge/stm32-f4xx-brightgreen)
   ![](https://img.shields.io/badge/stm32-f1xx-blue)
 ### Record:  
-![yepHiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepHiu&show_icons=true&bg_color=45,FFCC70,C850C0)  
+![yepHiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepHiu&show_icons=true&bg_color=45,FFCC70,C850C0&text_color=333333)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yepHiu&layout=compact&bg_color=45,FFCC70,C850C0)](https://github.com/anuraghazra/github-readme-stats)
