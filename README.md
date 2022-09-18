@@ -1,4 +1,4 @@
-## 你好呀 Hi there 👋  
+# 你好呀 Hi there 👋  
 
 welcome to my page
 I'm a student from China who is learning Embedded development. when I am leisure I will try something that is fun  
@@ -11,5 +11,4 @@ I'm a student from China who is learning Embedded development. when I am leisure
 ![](https://img.shields.io/badge/stm32-f1xx-blue)
 
 ### Record:  
-![yepHiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepHiu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yepHiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![yepHiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepHiu)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yepHiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
