@@ -10,6 +10,6 @@ I'm a student from China who is learning Embedded development. when I am leisure
 ![](https://img.shields.io/badge/stm32-f4xx-brightgreen)
 ![](https://img.shields.io/badge/stm32-f1xx-blue)
 
-Record:  
+### Record:  
 ![yepHiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepHiu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yepHiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
