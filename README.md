@@ -18,6 +18,7 @@
 | PID控制算法实现(matlab) |  X   |
 | FOC控制器原理学习        |  X   |
 | UCOS代码笔记          |  X   |
+| Matlab学习          |  X   |
 
 
 ### Record:  
